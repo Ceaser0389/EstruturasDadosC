@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612127793 source:c:\projetos\c\estrutura de dados em c\nao_linearidade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Locale.h>
+

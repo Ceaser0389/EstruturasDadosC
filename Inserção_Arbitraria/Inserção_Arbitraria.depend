@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612273778 source:c:\projetos\c\estrutura de dados em c\inserção_arbitraria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612359619 source:c:\projetos\c\estrutura de dados em c\listas_remocao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Locale.h>
+

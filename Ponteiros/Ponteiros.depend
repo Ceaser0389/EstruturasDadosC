@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612121922 source:c:\projetos\c\estrutura de dados em c\ponteiros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

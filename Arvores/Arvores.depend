@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612539838 source:c:\projetos\c\estrutura de dados em c\arvores\arvores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Locale.h>
+

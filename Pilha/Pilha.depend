@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612451933 source:c:\projetos\c\estrutura de dados em c\pilha\pilha\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+
